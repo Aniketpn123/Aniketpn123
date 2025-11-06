@@ -1,12 +1,11 @@
-# Hi there! <img src="https://github.com/aniket-nakhate/icons/blob/main/wave.gif" width="24" alt="wave" />
-I'm **Aniket** — a mechanical engineer learning to code and create.
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-Currently exploring **Web Development** and **Java**, and building small projects to sharpen my skills.  
-I enjoy learning new tech, making simple things work, and seeing progress bit by bit.
+I'm [**Aniket Nakhate**](#), a mechanical engineer exploring code, creativity, and everything in between.
 
-Outside of coding, I love making **beats** and exploring creativity through music and sound.
+Currently, I’m learning **Web Development** and **Java**, building projects to sharpen my skills and understand real-world systems.  
+I'm fascinated by how technology connects ideas — from a simple script to a full-fledged app that makes life easier.
 
----
+Outside of coding, I create **beats 🎧**, explore sound design, and enjoy experimenting with creativity in music and visuals.
 
-### 🤝 Let's Connect  
- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="20" alt="LinkedIn"/> LinkedIn (https://www.linkedin.com/in/aniket-nakhate/)
+#### Let's connect!
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/aniket-nakhate/)
