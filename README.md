@@ -1,4 +1,4 @@
-### Hi there ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 I'm Aniket — a mechanical engineer learning to code and create.  
 
 Currently exploring **web development** and **Java**, and building small projects to improve my skills.  
