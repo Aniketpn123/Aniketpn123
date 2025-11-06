@@ -7,4 +7,4 @@ I enjoy learning new tech, making simple things work, and seeing progress bit by
 Outside of coding, I love making beats 🎧 and exploring creativity through music and sound.  
 
 #### Let's connect!
-[Linkdin]( https://www.linkedin.com/in/aniket-nakhate/ );
+[Linkdin]( https://www.linkedin.com/in/aniket-nakhate/ )
